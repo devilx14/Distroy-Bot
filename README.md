@@ -1,4 +1,4 @@
-# Destroy√Bot
+# Distroy√Bot
 
 A simple Telegram userbot based on Telethon .
 [![distroy√bot logo](https://telegra.ph/file/1bb2bda3ab71c0dababb2.jpg)]
