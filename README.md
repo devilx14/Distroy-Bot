@@ -1,7 +1,7 @@
 # Destroy√Bot
 
 A simple Telegram userbot based on Telethon .
-[![distroy√bot logo](https://telegra.ph/file/e1bcc91dda7a3de052592.jpg)]
+[![distroy√bot logo](https://telegra.ph/file/1bb2bda3ab71c0dababb2.jpg)]
 
 ## Deployment
 > Click on buttons to expands! 
@@ -44,23 +44,23 @@ A simple Telegram userbot based on Telethon .
 <summary><b>🔗 Self Host</b></summary>
 <br>
   
-> Read [Docs](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host) for Self Hosting of Catuserbot. 
+> Read [Docs](https://distroy√bot.gitbook.io/distroy√bot/tutorial/self-host) for Self Hosting of Destroy√bot. 
   
 </details>
 
 ## Configuration Vars
 
-- Checkout All [Available Vars](https://telegra.ph/All-Heroku-variables-for-catuserbot-02-03)
-- Checkout Only [Mandatory Vars](https://catuserbot.gitbook.io/catuserbot/tutorial/untitled-3) 
+- Checkout All [Available Vars](https://telegra.ph/All-Heroku-variables-for-distroy√bot-02-03)
+- Checkout Only [Mandatory Vars](https://destroy√bot.gitbook.io/catuserbot/tutorial/untitled-3) 
 
 ## Contact & Support
 
-- [Catuserbot Channel](https://t.me/catuserbot17)
-- [Catuserbot Support Group](https://t.me/catuserbot_support)
+- [Catuserbot Channel](https://t.me/distroy√bot)
+- [Catuserbot Support Group](https://t.me/destroy√bot_support)
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/sandy1709/catuserbot/blob/master/LICENSE) See `LICENSE` for more information.
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/sandy1709/distroy√bot/blob/master/LICENSE) See `LICENSE` for more information.
 
 ## Disclaimer
 Read these lines! 
@@ -71,7 +71,7 @@ Read these lines!
   
 >                        ❗YOU ARE FOREWARNED❗
 > Your Telegram account may get banned.
-> Catuserbot or we are not responsible for your account. 
+> Dostroy√bot or we are not responsible for your account. 
 > This bot is intended for the purpose of having fun with some fun commands and group management with some helpfull commands.
 
 > If  you ended up spamming groups, getting reported left and right, and you ended up in being fight with Telegram and at the end Telegram Team deleted your account. DON'T BLAME US.
