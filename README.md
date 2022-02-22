@@ -23,7 +23,7 @@ https://github.com/ACeRoGer1/Distroy-Bot/blob/main/README.md)
 > Always remember to use valid API'S else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>  
-<p><a href="https://github.com/ACeRoGer1/Distroy-Bot/blob/main/README.md"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@SpEcHiDe/GenerateStringSession"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 </details>
   
