@@ -1,4 +1,4 @@
-# CatUserbot
+# Destroy√Bot
 
 A simple Telegram userbot based on Telethon .
 [![catuserbot logo](https://telegra.ph/file/e1bcc91dda7a3de052592.jpg)](https://t.me/catuserbot_support) 
