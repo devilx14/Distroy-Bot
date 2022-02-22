@@ -11,8 +11,8 @@ A simple Telegram userbot based on Telethon .
   
 - [Telegram API Key](https://my.telegram.org/auth) 
 - [Telegram Bot Token](https://t.me/botfather)
-- [String Session](https://replit.com/ACeRoGer1/Distroy√botStringSession?v=1) 
-
+- [String Session](
+https://github.com/ACeRoGer1/Distroy-Bot/blob/main/README.md)
 </details>
  
 <details>
@@ -23,7 +23,7 @@ A simple Telegram userbot based on Telethon .
 > Always remember to use valid API'S else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>  
-<p><a href="https://replit.com/ACeRoGer1/Distroy√botStringSession?v=1)"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://github.com/ACeRoGer1/Distroy-Bot/blob/main/README.md"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 </details>
   
