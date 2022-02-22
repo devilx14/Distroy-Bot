@@ -51,7 +51,7 @@ https://github.com/ACeRoGer1/Distroy-Bot/blob/main/README.md)
 ## Configuration Vars
 
 - Checkout All [Available Vars](https://telegra.ph/All-Heroku-variables-for-distroy√bot-02-03)
-- Checkout Only [Mandatory Vars](https://destroy√bot.gitbook.io/catuserbot/tutorial/untitled-3) 
+- Checkout Only [Mandatory Vars](https://destroy√bot.gitbook.io/distroy√bot/tutorial/untitled-3) 
 
 ## Contact & Support
 
