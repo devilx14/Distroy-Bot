@@ -36,7 +36,7 @@ https://github.com/ACeRoGer1/Distroy-Bot/blob/main/README.md)
 > Those two vars are not Mandatory! You can leave them blank too but I would suggest to keep them. 
   
 <h4>Click the button below to deploy Destroy√bot on Heroku!</h4> 
-<p><a href="https://heroku.com/deploy?template=https://github.com/deepaiims/katssssss"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FACeRoGer1%2FDistroy-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
   
 </details> 
 
@@ -44,7 +44,7 @@ https://github.com/ACeRoGer1/Distroy-Bot/blob/main/README.md)
 <summary><b>🔗 Self Host</b></summary>
 <br>
   
-> Read [Docs](https://distroy√bot.gitbook.io/distroy√bot/tutorial/self-host) for Self Hosting of Destroy√bot. 
+> Read [Docs](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FACeRoGer1%2FDistroy-Bot) for Self Hosting of Destroy√bot. 
   
 </details>
 
